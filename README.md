@@ -11,6 +11,12 @@ Hands-on exercises from the Udemy course
 - `03-first-tf-project/` — Section 4: First Terraform project
   - S3 bucket with random suffix using random provider and string interpolation
 
+## Course Reference
+
+Exercises follow the official course repository by Lauro Mueller (LM Academy).
+Original exercise files and solutions can be found at:
+[github.com/lm-academy/terraform-course](https://github.com/lm-academy/terraform-course)
+
 ## How To Use
 1. Navigate into a section folder
 2. Add your AWS credentials via `aws configure`

@@ -33,6 +33,6 @@ locals {
 }
 
 module "my_module" {
-  source = "./modules/module-example"
+  source      = "./modules/module-example"
   bucket_name = var.bucket_name
 }

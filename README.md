@@ -10,6 +10,8 @@ Hands-on exercises from the Udemy course
   - All 7 HCL block types: terraform, provider, resource, data, variable, output, locals, module
 - `03-first-tf-project/` — Section 4: First Terraform project
   - S3 bucket with random suffix using random provider and string interpolation
+- `04-backends/` — Section 4: Remote S3 backend
+  - S3 bucket for remote state storage, with native S3 state locking via `use_lockfile` (replaces the older DynamoDB table approach)
 
 ## Course Reference
 
